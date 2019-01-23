@@ -1,0 +1,19 @@
+2018-12-20 16:24:25,631 - ERROR - connect database failed, (1044, u"Access denied for user 'jf'@'%' to database 'hq_db'")
+2018-12-20 16:47:22,739 - ERROR - connect database failed, (1044, u"Access denied for user 'jf'@'%' to database 'hq_db'")
+2018-12-20 16:48:58,187 - ERROR - connect database failed, (1044, u"Access denied for user 'jf'@'%' to database 'hq_db'")
+2018-12-20 16:58:26,388 - ERROR - connect database failed, (1044, u"Access denied for user 'jf'@'%' to database 'hq_db'")
+2018-12-20 16:59:10,773 - ERROR - connect database failed, (1044, u"Access denied for user 'jf'@'%' to database 'hq_db'")
+2018-12-20 17:12:52,584 - ERROR - connect database failed, %d format: a number is required, not str
+2018-12-20 20:34:03,102 - WARNING - query database exception:(1146, u"Table 'hq_db.t_mik_stock_30_10' doesn't exist")
+2018-12-20 20:34:43,453 - WARNING - query database exception:(1146, u"Table 'hq_db.t_mik_stock_30_10' doesn't exist")
+2018-12-21 09:33:45,766 - WARNING - query database exception:(1412, u'Table definition has changed, please retry transaction')
+2018-12-21 11:11:45,591 - WARNING - query database exception:(1412, u'Table definition has changed, please retry transaction')
+2018-12-21 11:13:02,585 - WARNING - query database exception:(1412, u'Table definition has changed, please retry transaction')
+2018-12-21 11:13:33,448 - WARNING - query database exception:(1412, u'Table definition has changed, please retry transaction')
+2018-12-21 11:15:41,526 - WARNING - query database exception:(1412, u'Table definition has changed, please retry transaction')
+2019-01-17 16:15:11,859 - WARNING - query database exception:(1241, u'Operand should contain 1 column(s)')
+2019-01-17 16:16:11,138 - WARNING - query database exception:(1241, u'Operand should contain 1 column(s)')
+2019-01-17 16:28:59,403 - WARNING - query database exception:not all arguments converted during string formatting
+2019-01-17 16:31:49,266 - WARNING - query database exception:not all arguments converted during string formatting
+2019-01-17 20:42:30,730 - WARNING - query database exception:(1146, u"Table 'hq_db.t_stock_trade_ex' doesn't exist")
+2019-01-17 20:50:11,864 - ERROR - connect database failed, (1044, u"Access denied for user 'shanghai'@'%' to database 'txcalcdb'")
